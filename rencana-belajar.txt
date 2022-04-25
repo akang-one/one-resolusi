@@ -3,4 +3,7 @@ Rencana Belajar
   * Belajar OOP
 - Python
 - PHP Framework
+ *Codeigniter
 - MySQL
+- C++ OOP
+ *OOP
