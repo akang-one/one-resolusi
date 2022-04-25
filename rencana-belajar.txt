@@ -1,5 +1,6 @@
 Rencana Belajar
 - Java
   * Belajar OOP
+- Python
 - PHP Framework
 - MySQL
