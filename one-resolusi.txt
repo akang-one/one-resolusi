@@ -2,5 +2,5 @@ Kang One Resolusi
 - Belajar Git & Github
 - Belajar bahasa pemograman python
 - Belajar OOP
-- Beresin kuliah
 - Belajar bahasa pemograman java
+- Belajar C++
